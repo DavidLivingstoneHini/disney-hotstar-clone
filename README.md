@@ -7,7 +7,7 @@ Hotstar-Disney+ clone using ReactJS
 need to install git and npm in system
 
 ```
-git clone https://github.com/anandhu720/disney-hotstar-clone.git
+git clone https://github.com/DavidLivingstoneHini/disney-hotstar-clone.git
 
 cd disney-hotstar-clone
 
