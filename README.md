@@ -17,7 +17,3 @@ npm start
 
 ```
 
-## Website link
-
-https://determined-bardeen-6a04b8.netlify.app/
-
