@@ -16,4 +16,4 @@ npm i
 npm start
 
 ```
-## Website link: [view my disney hotstar clone](https://dreamy-livingstone-e94188.netlify.app/)
+## Website link: [https://dreamy-livingstone-e94188.netlify.app/](https://dreamy-livingstone-e94188.netlify.app/)
