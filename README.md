@@ -16,4 +16,4 @@ npm i
 npm start
 
 ```
-
+## Website link: [![Netlify Status](https://api.netlify.com/api/v1/badges/0c816602-fd49-4764-bc1b-e38f49fe5feb/deploy-status)](https://app.netlify.com/sites/dreamy-livingstone-e94188/deploys)
